@@ -1,0 +1,15 @@
+C:\Users\morep\OneDrive\Desktop\C#\DifferentTypeOfVariabale\bin\Debug\net7.0\DifferentTypeOfVariabale.exe
+C:\Users\morep\OneDrive\Desktop\C#\DifferentTypeOfVariabale\bin\Debug\net7.0\DifferentTypeOfVariabale.deps.json
+C:\Users\morep\OneDrive\Desktop\C#\DifferentTypeOfVariabale\bin\Debug\net7.0\DifferentTypeOfVariabale.runtimeconfig.json
+C:\Users\morep\OneDrive\Desktop\C#\DifferentTypeOfVariabale\bin\Debug\net7.0\DifferentTypeOfVariabale.dll
+C:\Users\morep\OneDrive\Desktop\C#\DifferentTypeOfVariabale\bin\Debug\net7.0\DifferentTypeOfVariabale.pdb
+C:\Users\morep\OneDrive\Desktop\C#\DifferentTypeOfVariabale\obj\Debug\net7.0\DifferentTypeOfVariabale.csproj.AssemblyReference.cache
+C:\Users\morep\OneDrive\Desktop\C#\DifferentTypeOfVariabale\obj\Debug\net7.0\DifferentTypeOfVariabale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morep\OneDrive\Desktop\C#\DifferentTypeOfVariabale\obj\Debug\net7.0\DifferentTypeOfVariabale.AssemblyInfoInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\DifferentTypeOfVariabale\obj\Debug\net7.0\DifferentTypeOfVariabale.AssemblyInfo.cs
+C:\Users\morep\OneDrive\Desktop\C#\DifferentTypeOfVariabale\obj\Debug\net7.0\DifferentTypeOfVariabale.csproj.CoreCompileInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\DifferentTypeOfVariabale\obj\Debug\net7.0\DifferentTypeOfVariabale.dll
+C:\Users\morep\OneDrive\Desktop\C#\DifferentTypeOfVariabale\obj\Debug\net7.0\refint\DifferentTypeOfVariabale.dll
+C:\Users\morep\OneDrive\Desktop\C#\DifferentTypeOfVariabale\obj\Debug\net7.0\DifferentTypeOfVariabale.pdb
+C:\Users\morep\OneDrive\Desktop\C#\DifferentTypeOfVariabale\obj\Debug\net7.0\DifferentTypeOfVariabale.genruntimeconfig.cache
+C:\Users\morep\OneDrive\Desktop\C#\DifferentTypeOfVariabale\obj\Debug\net7.0\ref\DifferentTypeOfVariabale.dll

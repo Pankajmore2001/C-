@@ -1,0 +1,15 @@
+C:\Users\morep\OneDrive\Desktop\C#\Constructors\obj\Debug\net7.0\Constructors.csproj.AssemblyReference.cache
+C:\Users\morep\OneDrive\Desktop\C#\Constructors\obj\Debug\net7.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morep\OneDrive\Desktop\C#\Constructors\obj\Debug\net7.0\Constructors.AssemblyInfoInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\Constructors\obj\Debug\net7.0\Constructors.AssemblyInfo.cs
+C:\Users\morep\OneDrive\Desktop\C#\Constructors\obj\Debug\net7.0\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\Constructors\bin\Debug\net7.0\Constructors.exe
+C:\Users\morep\OneDrive\Desktop\C#\Constructors\bin\Debug\net7.0\Constructors.deps.json
+C:\Users\morep\OneDrive\Desktop\C#\Constructors\bin\Debug\net7.0\Constructors.runtimeconfig.json
+C:\Users\morep\OneDrive\Desktop\C#\Constructors\bin\Debug\net7.0\Constructors.dll
+C:\Users\morep\OneDrive\Desktop\C#\Constructors\bin\Debug\net7.0\Constructors.pdb
+C:\Users\morep\OneDrive\Desktop\C#\Constructors\obj\Debug\net7.0\Constructors.dll
+C:\Users\morep\OneDrive\Desktop\C#\Constructors\obj\Debug\net7.0\refint\Constructors.dll
+C:\Users\morep\OneDrive\Desktop\C#\Constructors\obj\Debug\net7.0\Constructors.pdb
+C:\Users\morep\OneDrive\Desktop\C#\Constructors\obj\Debug\net7.0\Constructors.genruntimeconfig.cache
+C:\Users\morep\OneDrive\Desktop\C#\Constructors\obj\Debug\net7.0\ref\Constructors.dll

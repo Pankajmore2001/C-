@@ -1,0 +1,15 @@
+C:\Users\morep\OneDrive\Desktop\C#\AbstactProject\bin\Debug\net7.0\AbstactProject.exe
+C:\Users\morep\OneDrive\Desktop\C#\AbstactProject\bin\Debug\net7.0\AbstactProject.deps.json
+C:\Users\morep\OneDrive\Desktop\C#\AbstactProject\bin\Debug\net7.0\AbstactProject.runtimeconfig.json
+C:\Users\morep\OneDrive\Desktop\C#\AbstactProject\bin\Debug\net7.0\AbstactProject.dll
+C:\Users\morep\OneDrive\Desktop\C#\AbstactProject\bin\Debug\net7.0\AbstactProject.pdb
+C:\Users\morep\OneDrive\Desktop\C#\AbstactProject\obj\Debug\net7.0\AbstactProject.csproj.AssemblyReference.cache
+C:\Users\morep\OneDrive\Desktop\C#\AbstactProject\obj\Debug\net7.0\AbstactProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morep\OneDrive\Desktop\C#\AbstactProject\obj\Debug\net7.0\AbstactProject.AssemblyInfoInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\AbstactProject\obj\Debug\net7.0\AbstactProject.AssemblyInfo.cs
+C:\Users\morep\OneDrive\Desktop\C#\AbstactProject\obj\Debug\net7.0\AbstactProject.csproj.CoreCompileInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\AbstactProject\obj\Debug\net7.0\AbstactProject.dll
+C:\Users\morep\OneDrive\Desktop\C#\AbstactProject\obj\Debug\net7.0\refint\AbstactProject.dll
+C:\Users\morep\OneDrive\Desktop\C#\AbstactProject\obj\Debug\net7.0\AbstactProject.pdb
+C:\Users\morep\OneDrive\Desktop\C#\AbstactProject\obj\Debug\net7.0\AbstactProject.genruntimeconfig.cache
+C:\Users\morep\OneDrive\Desktop\C#\AbstactProject\obj\Debug\net7.0\ref\AbstactProject.dll
