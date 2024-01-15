@@ -1,0 +1,15 @@
+C:\Users\morep\OneDrive\Desktop\C#\Polymorphism\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.exe
+C:\Users\morep\OneDrive\Desktop\C#\Polymorphism\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.deps.json
+C:\Users\morep\OneDrive\Desktop\C#\Polymorphism\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.runtimeconfig.json
+C:\Users\morep\OneDrive\Desktop\C#\Polymorphism\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.dll
+C:\Users\morep\OneDrive\Desktop\C#\Polymorphism\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.pdb
+C:\Users\morep\OneDrive\Desktop\C#\Polymorphism\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\morep\OneDrive\Desktop\C#\Polymorphism\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morep\OneDrive\Desktop\C#\Polymorphism\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\Polymorphism\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.AssemblyInfo.cs
+C:\Users\morep\OneDrive\Desktop\C#\Polymorphism\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\Polymorphism\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.dll
+C:\Users\morep\OneDrive\Desktop\C#\Polymorphism\OperatorOverloading\obj\Debug\net7.0\refint\OperatorOverloading.dll
+C:\Users\morep\OneDrive\Desktop\C#\Polymorphism\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.pdb
+C:\Users\morep\OneDrive\Desktop\C#\Polymorphism\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.genruntimeconfig.cache
+C:\Users\morep\OneDrive\Desktop\C#\Polymorphism\OperatorOverloading\obj\Debug\net7.0\ref\OperatorOverloading.dll

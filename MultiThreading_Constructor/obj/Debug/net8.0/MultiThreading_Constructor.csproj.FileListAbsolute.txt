@@ -1,0 +1,15 @@
+C:\Users\morep\OneDrive\Desktop\C#\MultiThreading_Constructor\obj\Debug\net8.0\MultiThreading_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morep\OneDrive\Desktop\C#\MultiThreading_Constructor\obj\Debug\net8.0\MultiThreading_Constructor.AssemblyInfoInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\MultiThreading_Constructor\obj\Debug\net8.0\MultiThreading_Constructor.AssemblyInfo.cs
+C:\Users\morep\OneDrive\Desktop\C#\MultiThreading_Constructor\obj\Debug\net8.0\MultiThreading_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\MultiThreading_Constructor\obj\Debug\net8.0\MultiThreading_Constructor.sourcelink.json
+C:\Users\morep\OneDrive\Desktop\C#\MultiThreading_Constructor\bin\Debug\net8.0\MultiThreading_Constructor.exe
+C:\Users\morep\OneDrive\Desktop\C#\MultiThreading_Constructor\bin\Debug\net8.0\MultiThreading_Constructor.deps.json
+C:\Users\morep\OneDrive\Desktop\C#\MultiThreading_Constructor\bin\Debug\net8.0\MultiThreading_Constructor.runtimeconfig.json
+C:\Users\morep\OneDrive\Desktop\C#\MultiThreading_Constructor\bin\Debug\net8.0\MultiThreading_Constructor.dll
+C:\Users\morep\OneDrive\Desktop\C#\MultiThreading_Constructor\bin\Debug\net8.0\MultiThreading_Constructor.pdb
+C:\Users\morep\OneDrive\Desktop\C#\MultiThreading_Constructor\obj\Debug\net8.0\MultiThreading_Constructor.dll
+C:\Users\morep\OneDrive\Desktop\C#\MultiThreading_Constructor\obj\Debug\net8.0\refint\MultiThreading_Constructor.dll
+C:\Users\morep\OneDrive\Desktop\C#\MultiThreading_Constructor\obj\Debug\net8.0\MultiThreading_Constructor.pdb
+C:\Users\morep\OneDrive\Desktop\C#\MultiThreading_Constructor\obj\Debug\net8.0\MultiThreading_Constructor.genruntimeconfig.cache
+C:\Users\morep\OneDrive\Desktop\C#\MultiThreading_Constructor\obj\Debug\net8.0\ref\MultiThreading_Constructor.dll
