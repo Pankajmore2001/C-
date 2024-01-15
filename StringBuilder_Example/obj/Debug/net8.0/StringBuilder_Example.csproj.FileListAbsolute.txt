@@ -1,0 +1,15 @@
+C:\Users\morep\OneDrive\Desktop\C#\StringBuilder_Example\obj\Debug\net8.0\StringBuilder_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morep\OneDrive\Desktop\C#\StringBuilder_Example\obj\Debug\net8.0\StringBuilder_Example.AssemblyInfoInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\StringBuilder_Example\obj\Debug\net8.0\StringBuilder_Example.AssemblyInfo.cs
+C:\Users\morep\OneDrive\Desktop\C#\StringBuilder_Example\obj\Debug\net8.0\StringBuilder_Example.csproj.CoreCompileInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\StringBuilder_Example\obj\Debug\net8.0\StringBuilder_Example.sourcelink.json
+C:\Users\morep\OneDrive\Desktop\C#\StringBuilder_Example\bin\Debug\net8.0\StringBuilder_Example.exe
+C:\Users\morep\OneDrive\Desktop\C#\StringBuilder_Example\bin\Debug\net8.0\StringBuilder_Example.deps.json
+C:\Users\morep\OneDrive\Desktop\C#\StringBuilder_Example\bin\Debug\net8.0\StringBuilder_Example.runtimeconfig.json
+C:\Users\morep\OneDrive\Desktop\C#\StringBuilder_Example\bin\Debug\net8.0\StringBuilder_Example.dll
+C:\Users\morep\OneDrive\Desktop\C#\StringBuilder_Example\bin\Debug\net8.0\StringBuilder_Example.pdb
+C:\Users\morep\OneDrive\Desktop\C#\StringBuilder_Example\obj\Debug\net8.0\StringBuilder_Example.dll
+C:\Users\morep\OneDrive\Desktop\C#\StringBuilder_Example\obj\Debug\net8.0\refint\StringBuilder_Example.dll
+C:\Users\morep\OneDrive\Desktop\C#\StringBuilder_Example\obj\Debug\net8.0\StringBuilder_Example.pdb
+C:\Users\morep\OneDrive\Desktop\C#\StringBuilder_Example\obj\Debug\net8.0\StringBuilder_Example.genruntimeconfig.cache
+C:\Users\morep\OneDrive\Desktop\C#\StringBuilder_Example\obj\Debug\net8.0\ref\StringBuilder_Example.dll
