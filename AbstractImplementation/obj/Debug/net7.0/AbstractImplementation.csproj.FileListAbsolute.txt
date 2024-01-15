@@ -1,0 +1,15 @@
+C:\Users\morep\OneDrive\Desktop\C#\AbstractImplementation\bin\Debug\net7.0\AbstractImplementation.exe
+C:\Users\morep\OneDrive\Desktop\C#\AbstractImplementation\bin\Debug\net7.0\AbstractImplementation.deps.json
+C:\Users\morep\OneDrive\Desktop\C#\AbstractImplementation\bin\Debug\net7.0\AbstractImplementation.runtimeconfig.json
+C:\Users\morep\OneDrive\Desktop\C#\AbstractImplementation\bin\Debug\net7.0\AbstractImplementation.dll
+C:\Users\morep\OneDrive\Desktop\C#\AbstractImplementation\bin\Debug\net7.0\AbstractImplementation.pdb
+C:\Users\morep\OneDrive\Desktop\C#\AbstractImplementation\obj\Debug\net7.0\AbstractImplementation.csproj.AssemblyReference.cache
+C:\Users\morep\OneDrive\Desktop\C#\AbstractImplementation\obj\Debug\net7.0\AbstractImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morep\OneDrive\Desktop\C#\AbstractImplementation\obj\Debug\net7.0\AbstractImplementation.AssemblyInfoInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\AbstractImplementation\obj\Debug\net7.0\AbstractImplementation.AssemblyInfo.cs
+C:\Users\morep\OneDrive\Desktop\C#\AbstractImplementation\obj\Debug\net7.0\AbstractImplementation.csproj.CoreCompileInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\AbstractImplementation\obj\Debug\net7.0\AbstractImplementation.dll
+C:\Users\morep\OneDrive\Desktop\C#\AbstractImplementation\obj\Debug\net7.0\refint\AbstractImplementation.dll
+C:\Users\morep\OneDrive\Desktop\C#\AbstractImplementation\obj\Debug\net7.0\AbstractImplementation.pdb
+C:\Users\morep\OneDrive\Desktop\C#\AbstractImplementation\obj\Debug\net7.0\AbstractImplementation.genruntimeconfig.cache
+C:\Users\morep\OneDrive\Desktop\C#\AbstractImplementation\obj\Debug\net7.0\ref\AbstractImplementation.dll
