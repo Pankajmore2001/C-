@@ -1,0 +1,15 @@
+C:\Users\morep\OneDrive\Desktop\C#\Lambda_Practice\obj\Debug\net8.0\Lambda_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morep\OneDrive\Desktop\C#\Lambda_Practice\obj\Debug\net8.0\Lambda_Practice.AssemblyInfoInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\Lambda_Practice\obj\Debug\net8.0\Lambda_Practice.AssemblyInfo.cs
+C:\Users\morep\OneDrive\Desktop\C#\Lambda_Practice\obj\Debug\net8.0\Lambda_Practice.csproj.CoreCompileInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\Lambda_Practice\obj\Debug\net8.0\Lambda_Practice.sourcelink.json
+C:\Users\morep\OneDrive\Desktop\C#\Lambda_Practice\bin\Debug\net8.0\Lambda_Practice.exe
+C:\Users\morep\OneDrive\Desktop\C#\Lambda_Practice\bin\Debug\net8.0\Lambda_Practice.deps.json
+C:\Users\morep\OneDrive\Desktop\C#\Lambda_Practice\bin\Debug\net8.0\Lambda_Practice.runtimeconfig.json
+C:\Users\morep\OneDrive\Desktop\C#\Lambda_Practice\bin\Debug\net8.0\Lambda_Practice.dll
+C:\Users\morep\OneDrive\Desktop\C#\Lambda_Practice\bin\Debug\net8.0\Lambda_Practice.pdb
+C:\Users\morep\OneDrive\Desktop\C#\Lambda_Practice\obj\Debug\net8.0\Lambda_Practice.dll
+C:\Users\morep\OneDrive\Desktop\C#\Lambda_Practice\obj\Debug\net8.0\refint\Lambda_Practice.dll
+C:\Users\morep\OneDrive\Desktop\C#\Lambda_Practice\obj\Debug\net8.0\Lambda_Practice.pdb
+C:\Users\morep\OneDrive\Desktop\C#\Lambda_Practice\obj\Debug\net8.0\Lambda_Practice.genruntimeconfig.cache
+C:\Users\morep\OneDrive\Desktop\C#\Lambda_Practice\obj\Debug\net8.0\ref\Lambda_Practice.dll

@@ -1,0 +1,15 @@
+C:\Users\morep\OneDrive\Desktop\C#\Join_in_Threading\obj\Debug\net8.0\Join_in_Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morep\OneDrive\Desktop\C#\Join_in_Threading\obj\Debug\net8.0\Join_in_Threading.AssemblyInfoInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\Join_in_Threading\obj\Debug\net8.0\Join_in_Threading.AssemblyInfo.cs
+C:\Users\morep\OneDrive\Desktop\C#\Join_in_Threading\obj\Debug\net8.0\Join_in_Threading.csproj.CoreCompileInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\Join_in_Threading\obj\Debug\net8.0\Join_in_Threading.sourcelink.json
+C:\Users\morep\OneDrive\Desktop\C#\Join_in_Threading\bin\Debug\net8.0\Join_in_Threading.exe
+C:\Users\morep\OneDrive\Desktop\C#\Join_in_Threading\bin\Debug\net8.0\Join_in_Threading.deps.json
+C:\Users\morep\OneDrive\Desktop\C#\Join_in_Threading\bin\Debug\net8.0\Join_in_Threading.runtimeconfig.json
+C:\Users\morep\OneDrive\Desktop\C#\Join_in_Threading\bin\Debug\net8.0\Join_in_Threading.dll
+C:\Users\morep\OneDrive\Desktop\C#\Join_in_Threading\bin\Debug\net8.0\Join_in_Threading.pdb
+C:\Users\morep\OneDrive\Desktop\C#\Join_in_Threading\obj\Debug\net8.0\Join_in_Threading.dll
+C:\Users\morep\OneDrive\Desktop\C#\Join_in_Threading\obj\Debug\net8.0\refint\Join_in_Threading.dll
+C:\Users\morep\OneDrive\Desktop\C#\Join_in_Threading\obj\Debug\net8.0\Join_in_Threading.pdb
+C:\Users\morep\OneDrive\Desktop\C#\Join_in_Threading\obj\Debug\net8.0\Join_in_Threading.genruntimeconfig.cache
+C:\Users\morep\OneDrive\Desktop\C#\Join_in_Threading\obj\Debug\net8.0\ref\Join_in_Threading.dll
