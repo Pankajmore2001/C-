@@ -1,0 +1,15 @@
+C:\Users\morep\OneDrive\Desktop\C#\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morep\OneDrive\Desktop\C#\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.AssemblyInfo.cs
+C:\Users\morep\OneDrive\Desktop\C#\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.sourcelink.json
+C:\Users\morep\OneDrive\Desktop\C#\ExceptionDemo\bin\Debug\net8.0\ExceptionDemo.exe
+C:\Users\morep\OneDrive\Desktop\C#\ExceptionDemo\bin\Debug\net8.0\ExceptionDemo.deps.json
+C:\Users\morep\OneDrive\Desktop\C#\ExceptionDemo\bin\Debug\net8.0\ExceptionDemo.runtimeconfig.json
+C:\Users\morep\OneDrive\Desktop\C#\ExceptionDemo\bin\Debug\net8.0\ExceptionDemo.dll
+C:\Users\morep\OneDrive\Desktop\C#\ExceptionDemo\bin\Debug\net8.0\ExceptionDemo.pdb
+C:\Users\morep\OneDrive\Desktop\C#\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.dll
+C:\Users\morep\OneDrive\Desktop\C#\ExceptionDemo\obj\Debug\net8.0\refint\ExceptionDemo.dll
+C:\Users\morep\OneDrive\Desktop\C#\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.pdb
+C:\Users\morep\OneDrive\Desktop\C#\ExceptionDemo\obj\Debug\net8.0\ExceptionDemo.genruntimeconfig.cache
+C:\Users\morep\OneDrive\Desktop\C#\ExceptionDemo\obj\Debug\net8.0\ref\ExceptionDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\morep\OneDrive\Desktop\C#\CopyConstructor\obj\Debug\net7.0\CopyConstructor.csproj.AssemblyReference.cache
+C:\Users\morep\OneDrive\Desktop\C#\CopyConstructor\obj\Debug\net7.0\CopyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morep\OneDrive\Desktop\C#\CopyConstructor\obj\Debug\net7.0\CopyConstructor.AssemblyInfoInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\CopyConstructor\obj\Debug\net7.0\CopyConstructor.AssemblyInfo.cs
+C:\Users\morep\OneDrive\Desktop\C#\CopyConstructor\obj\Debug\net7.0\CopyConstructor.csproj.CoreCompileInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\CopyConstructor\bin\Debug\net7.0\CopyConstructor.exe
+C:\Users\morep\OneDrive\Desktop\C#\CopyConstructor\bin\Debug\net7.0\CopyConstructor.deps.json
+C:\Users\morep\OneDrive\Desktop\C#\CopyConstructor\bin\Debug\net7.0\CopyConstructor.runtimeconfig.json
+C:\Users\morep\OneDrive\Desktop\C#\CopyConstructor\bin\Debug\net7.0\CopyConstructor.dll
+C:\Users\morep\OneDrive\Desktop\C#\CopyConstructor\bin\Debug\net7.0\CopyConstructor.pdb
+C:\Users\morep\OneDrive\Desktop\C#\CopyConstructor\obj\Debug\net7.0\CopyConstructor.dll
+C:\Users\morep\OneDrive\Desktop\C#\CopyConstructor\obj\Debug\net7.0\refint\CopyConstructor.dll
+C:\Users\morep\OneDrive\Desktop\C#\CopyConstructor\obj\Debug\net7.0\CopyConstructor.pdb
+C:\Users\morep\OneDrive\Desktop\C#\CopyConstructor\obj\Debug\net7.0\CopyConstructor.genruntimeconfig.cache
+C:\Users\morep\OneDrive\Desktop\C#\CopyConstructor\obj\Debug\net7.0\ref\CopyConstructor.dll
