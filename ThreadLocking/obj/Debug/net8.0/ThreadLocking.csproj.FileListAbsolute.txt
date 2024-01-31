@@ -1,0 +1,15 @@
+C:\Users\morep\OneDrive\Desktop\C#\ThreadLocking\bin\Debug\net8.0\ThreadLocking.exe
+C:\Users\morep\OneDrive\Desktop\C#\ThreadLocking\bin\Debug\net8.0\ThreadLocking.deps.json
+C:\Users\morep\OneDrive\Desktop\C#\ThreadLocking\bin\Debug\net8.0\ThreadLocking.runtimeconfig.json
+C:\Users\morep\OneDrive\Desktop\C#\ThreadLocking\bin\Debug\net8.0\ThreadLocking.dll
+C:\Users\morep\OneDrive\Desktop\C#\ThreadLocking\bin\Debug\net8.0\ThreadLocking.pdb
+C:\Users\morep\OneDrive\Desktop\C#\ThreadLocking\obj\Debug\net8.0\ThreadLocking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morep\OneDrive\Desktop\C#\ThreadLocking\obj\Debug\net8.0\ThreadLocking.AssemblyInfoInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\ThreadLocking\obj\Debug\net8.0\ThreadLocking.AssemblyInfo.cs
+C:\Users\morep\OneDrive\Desktop\C#\ThreadLocking\obj\Debug\net8.0\ThreadLocking.csproj.CoreCompileInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\ThreadLocking\obj\Debug\net8.0\ThreadLocking.sourcelink.json
+C:\Users\morep\OneDrive\Desktop\C#\ThreadLocking\obj\Debug\net8.0\ThreadLocking.dll
+C:\Users\morep\OneDrive\Desktop\C#\ThreadLocking\obj\Debug\net8.0\refint\ThreadLocking.dll
+C:\Users\morep\OneDrive\Desktop\C#\ThreadLocking\obj\Debug\net8.0\ThreadLocking.pdb
+C:\Users\morep\OneDrive\Desktop\C#\ThreadLocking\obj\Debug\net8.0\ThreadLocking.genruntimeconfig.cache
+C:\Users\morep\OneDrive\Desktop\C#\ThreadLocking\obj\Debug\net8.0\ref\ThreadLocking.dll

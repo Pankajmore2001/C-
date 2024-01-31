@@ -1,0 +1,15 @@
+C:\Users\morep\OneDrive\Desktop\C#\ThreadPerformance\obj\Debug\net8.0\ThreadPerformance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morep\OneDrive\Desktop\C#\ThreadPerformance\obj\Debug\net8.0\ThreadPerformance.AssemblyInfoInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\ThreadPerformance\obj\Debug\net8.0\ThreadPerformance.AssemblyInfo.cs
+C:\Users\morep\OneDrive\Desktop\C#\ThreadPerformance\obj\Debug\net8.0\ThreadPerformance.csproj.CoreCompileInputs.cache
+C:\Users\morep\OneDrive\Desktop\C#\ThreadPerformance\obj\Debug\net8.0\ThreadPerformance.sourcelink.json
+C:\Users\morep\OneDrive\Desktop\C#\ThreadPerformance\bin\Debug\net8.0\ThreadPerformance.exe
+C:\Users\morep\OneDrive\Desktop\C#\ThreadPerformance\bin\Debug\net8.0\ThreadPerformance.deps.json
+C:\Users\morep\OneDrive\Desktop\C#\ThreadPerformance\bin\Debug\net8.0\ThreadPerformance.runtimeconfig.json
+C:\Users\morep\OneDrive\Desktop\C#\ThreadPerformance\bin\Debug\net8.0\ThreadPerformance.dll
+C:\Users\morep\OneDrive\Desktop\C#\ThreadPerformance\bin\Debug\net8.0\ThreadPerformance.pdb
+C:\Users\morep\OneDrive\Desktop\C#\ThreadPerformance\obj\Debug\net8.0\ThreadPerformance.dll
+C:\Users\morep\OneDrive\Desktop\C#\ThreadPerformance\obj\Debug\net8.0\refint\ThreadPerformance.dll
+C:\Users\morep\OneDrive\Desktop\C#\ThreadPerformance\obj\Debug\net8.0\ThreadPerformance.pdb
+C:\Users\morep\OneDrive\Desktop\C#\ThreadPerformance\obj\Debug\net8.0\ThreadPerformance.genruntimeconfig.cache
+C:\Users\morep\OneDrive\Desktop\C#\ThreadPerformance\obj\Debug\net8.0\ref\ThreadPerformance.dll
